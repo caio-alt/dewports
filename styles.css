@@ -1,0 +1,29 @@
+#produtos-section {
+    margin-bottom: 20px;
+  }
+  
+  #produtos-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .produto-card {
+    width: 300px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .produto-card img {
+    width: 50%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 5px;
+  }
+  
+  .adicional-list-item {
+    margin-bottom: 10px;
+  }
+  
